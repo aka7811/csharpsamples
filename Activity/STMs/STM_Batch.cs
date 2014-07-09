@@ -9,23 +9,8 @@ namespace GELib.Activity
     {
         Nothing,
         Boosted,
-        Hitted,
-        Die,
-        Follow,
-        Flock,
-        Stuck,
-        Normal,
-        Stop,
-
-
-        Unhitted,
-        Unboosted,
-
-        Pad,
-        Kill,
-        Fire_Trigger,Fire_Force_Trigger, Fire_Blast_Trigger,
-
-        Too_force,
+        [..]
+       
 
         Full
 
@@ -37,28 +22,10 @@ namespace GELib.Activity
     {
         Null,
 
-        Move, Animation, Life, Move_Rot,
-
-
-        Spawning, Normal, Death,
-        Normal_Rot, Boosting, After_Contact, Breaking,
-
-        Flock, Stay, Escape,
-
-
-        Fire_Force, Fire_Blast,
-
-        Recharging, Firing,
-        Too_Force
+        Move,  [..]
 
     }
-    
-    public static class N_
-    {
-       
-
-      
-    }
+   
     
     public class STM_Batch
     {

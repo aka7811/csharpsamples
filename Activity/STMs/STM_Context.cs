@@ -51,12 +51,7 @@ namespace GELib.Activity
             //    messages[key]--;
             //}
             Frame++;
-            //OTI MESSAGE STEILEIS META APO EDO ME FRAME 0 THA TREXEI ONTOS STO EPOMENO
-            //ME FRAME 1 THA TREXEI TA DYO EPOMENA
-            //AN STEILEIS ME FRAME 0 PRIN TO UPDATE
-            // THA TREXEI EFOSON DEN KANEIS TO UPDATE PRIN TO FIRE KTL
-            //OPOTE LOGIKA KANEIS UPDATE STM_CONTEXT STO TELOS TELOS
-            //KAI STELNES TA 0 MINIMATA EX ARXHS KAI OXI STO ENDIAMESO? ALLIOS 1?
+        v
 
         }
         public bool Has(N_M_ message)
@@ -130,12 +125,7 @@ namespace GELib.Activity
                 messages[key] = new message_token() { count = messages[key].keep_next?1:0, keep_next = false };
             }
             Frame++;
-            //OTI MESSAGE STEILEIS META APO EDO ME FRAME 0 THA TREXEI ONTOS STO EPOMENO
-            //ME FRAME 1 THA TREXEI TA DYO EPOMENA
-            //AN STEILEIS ME FRAME 0 PRIN TO UPDATE
-            // THA TREXEI EFOSON DEN KANEIS TO UPDATE PRIN TO FIRE KTL
-            //OPOTE LOGIKA KANEIS UPDATE STM_CONTEXT STO TELOS TELOS
-            //KAI STELNES TA 0 MINIMATA EX ARXHS KAI OXI STO ENDIAMESO? ALLIOS 1?
+         
 
         }
         public bool Has(N_M_ message)
